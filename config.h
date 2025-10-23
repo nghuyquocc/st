@@ -5,7 +5,7 @@
  *
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
-static char *font = "CaskaydiaCove Nerd Font Mono:pixelsize=27:antialias=true:autohint=true";
+static char *font = "CaskaydiaCove Nerd Font Mono:pixelsize=20:antialias=true:autohint=true";
 static int borderpx = 2;
 
 /*
@@ -78,7 +78,7 @@ char *termname = "st-256color";
 
 
 float alpha = 0.8;
-float alpha_def = 0.85;
+float alpha_def = 0.8;
 
 /*
  * spaces per tab
